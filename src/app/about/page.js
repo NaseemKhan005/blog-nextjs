@@ -26,40 +26,42 @@ const About = () => {
         <div className="text-sm flex-1 flex flex-col gap-4">
           <h2 className="text-2xl font-bold">Who We Are?</h2>
           <p>
-            If you're wondering how to automatically generate the 50-950 shades
-            of your own custom colors, bad news — color is complicated and
-            despite trying dozens of different tools, we've yet to find one that
-            does a good job generating color palettes like this automatically.
+            If you&apos;re wondering how to automatically generate the 50-950
+            shades of your own custom colors, bad news — color is complicated
+            and despite trying dozens of different tools, we&apos;ve yet to find
+            one that does a good job generating color palettes like this
+            automatically.
           </p>
           <p>
-            We picked all of Tailwind's default colors by hand, meticulously
-            balancing them by eye and testing them in real designs to make sure
-            we were happy with them.
+            We picked all of Tailwind&apos;s default colors by hand,
+            meticulously balancing them by eye and testing them in real designs
+            to make sure we were happy with them.
           </p>
           <p>
             Two useful tools we can recommend are Palettte and ColorBox — they
-            won't do the work for you but their interfaces are well-designed for
-            doing this sort of work.
+            won&apos;t do the work for you but their interfaces are
+            well-designed for doing this sort of work.
           </p>
         </div>
 
         <div className="text-sm flex-1 flex flex-col gap-4">
           <h2 className="text-2xl font-bold">Who We Are?</h2>
           <p>
-            If you're wondering how to automatically generate the 50-950 shades
-            of your own custom colors, bad news — color is complicated and
-            despite trying dozens of different tools, we've yet to find one that
-            does a good job generating color palettes like this automatically.
+            If you&apos;re wondering how to automatically generate the 50-950
+            shades of your own custom colors, bad news — color is complicated
+            and despite trying dozens of different tools, we&apos;ve yet to find
+            one that does a good job generating color palettes like this
+            automatically.
           </p>
           <p>
-            We picked all of Tailwind's default colors by hand, meticulously
-            balancing them by eye and testing them in real designs to make sure
-            we were happy with them.
+            We picked all of Tailwind&apos;s default colors by hand,
+            meticulously balancing them by eye and testing them in real designs
+            to make sure we were happy with them.
           </p>
           <p>
             Two useful tools we can recommend are Palettte and ColorBox — they
-            won't do the work for you but their interfaces are well-designed for
-            doing this sort of work.
+            won&apos;t do the work for you but their interfaces are
+            well-designed for doing this sort of work.
           </p>
           <Button title="Contact" link="/contact" />
         </div>

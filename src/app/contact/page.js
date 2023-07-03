@@ -6,7 +6,7 @@ const Contact = () => {
   return (
     <section>
       <h2 className="text-center font-bold text-3xl mb-10 md:mb-auto sm:text-4xl">
-        Let's Keep in Touch
+        Let&apos;s Keep in Touch
       </h2>
       <div className="flexBetween gap-5 md:gap-10 md:flex-row flex-col">
         <div className="flex-1">
