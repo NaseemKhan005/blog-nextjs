@@ -11,7 +11,7 @@ const Contact = () => {
       <div className="flexBetween gap-5 md:gap-10 md:flex-row flex-col">
         <div className="flex-1">
           <Image
-            src={"/design.png"}
+            src={"/heroImg.avif"}
             width={500}
             height={500}
             alt="contact image"

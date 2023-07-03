@@ -27,7 +27,7 @@ const Category = ({ params }) => {
         </div>
         <div className="md:flex-1 w-full md:w-fit">
           <Image
-            src={"/creative=portfolio.avif"}
+            src={"/creative-portfolio.avif"}
             width={500}
             height={500}
             alt="create porfolio"

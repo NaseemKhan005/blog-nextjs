@@ -67,7 +67,7 @@ const Portfolio = () => {
         >
           <div className="w-full h-full bg-[#00000041] absolute top-0 left-0"></div>
           <Image
-            src={"/design.png"}
+            src={"/heroImg.avif"}
             width={500}
             height={500}
             alt="gallery1"
