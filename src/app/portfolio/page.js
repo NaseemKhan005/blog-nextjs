@@ -9,7 +9,7 @@ const Portfolio = () => {
       <h2 className="text-3xl text-center font-semibold my-5 text-blue-600">
         Choose a gallery
       </h2>
-      <div className="mx-auto grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-5">
+      <div className="mx-auto grid sm:grid-cols-2 md:grid-cols-3 gap-5">
         <Link
           href={"/portfolio/illustrations"}
           className="relative block w-full h-80 cursor-pointer"
@@ -45,7 +45,7 @@ const Portfolio = () => {
         </Link>
 
         <Link
-          href={"/portfolio/application"}
+          href={"/portfolio/applications"}
           className="relative block w-full h-80 cursor-pointer"
         >
           <div className="w-full h-full bg-[#00000041] absolute top-0 left-0"></div>
@@ -57,7 +57,7 @@ const Portfolio = () => {
             className="object-contain w-full h-full"
           />
           <h2 className="text-2xl font-bold absolute bottom-5 right-5 text-white">
-            Application
+            Applications
           </h2>
         </Link>
 
