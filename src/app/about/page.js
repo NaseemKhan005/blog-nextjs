@@ -8,7 +8,7 @@ const About = () => {
       <div className="relative w-full h-80 md:h-96">
         <div className="w-full h-full absolute top-0 left-0 bg-gradient-to-b from-[#000000c6] to-[#000000cd] z-[1]"></div>
         <Image
-          src={"/2.png"}
+          src={"/heroImg.avif"}
           width={500}
           height={500}
           alt="about image"

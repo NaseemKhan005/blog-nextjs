@@ -8,7 +8,7 @@ const ToggleButton = () => {
   return (
     <button
       onClick={toggleMode}
-      className="flexBetween w-[2.7rem] gap-[.3rem] border border-neutral-300 rounded-full relative p-1 text-sm"
+      className="flexBetween ml-2 w-[2.7rem] gap-[.3rem] border border-neutral-300 rounded-full relative p-1 text-sm"
     >
       <span>
         <BsSun />
